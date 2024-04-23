@@ -1,0 +1,8 @@
+este es otro archivo de prueba
+si
+se acabo^Z
+
+^Z
+
+^^ZZ
+dir
