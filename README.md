@@ -5,15 +5,21 @@
 ##### Sergio Orellan Sieira
 
 **Este texto esta en negrita** 
-__Este tamén__
+__Este también__
 
-*Este texto esta en cursiva*
+*Este texto está en cursiva*
 
-_Este tamén_
+_Este también_
 
-~~Este texto esta tachado~~
+~~Este texto está tachado~~
 
 > Este texto es una cita
+
+**Este texto esta en negrita y _solo esto en cursiva_**
+
+Esto es un <sub>subíndice:</sub>
+
+Esto es un <sup>superíndice</sup>
 
 Algunos comando basicos de git son
 
@@ -23,4 +29,30 @@ git add
 git commit
 ```
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+Estas son diversas formas de Añadir color
+
+Esto es un placeholder para el color naranja.
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+
+Esto es un placeholder para el color amarillo
+ ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+```diff
+- Texto en rojo
++ Texto en verde
+! Texto en naranja
+# TExto en gris
+@@ Texto en violeta @@
+```
+
+$${\color{red}Rojo}$$
+
+
+
+
+
+
+
+
+
+
