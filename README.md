@@ -1,8 +1,8 @@
-# Este es mi archivo README inicial
-## Completaremos a partir de aquí
-### Encabezado de terceiro nivel
-#### Encabezado de cuarto nivel
-##### Encabezado de quinto nivel
+# Este es mi archivo README para entregar
+## Expondremos toda la sintaxis general
+### Esto es un archivo .md
+#### Esto son encabezados
+##### Sergio Orellan Sieira
 
 **Este texto esta en negrita** 
 __Este tamén__
