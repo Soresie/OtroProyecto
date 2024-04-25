@@ -4,6 +4,9 @@
 #### Esto son encabezados
 ##### Sergio Orellan Sieira
 
+
+
+
 **Este texto esta en negrita** 
 __Este también__
 
@@ -21,7 +24,7 @@ Esto es un <sub>subíndice:</sub>
 
 Esto es un <sup>superíndice</sup>
 
-Algunos comando basicos de git son
+Esto es un bloque distintivo para código y poder copiarlo facilmente
 
 ```
 git status
@@ -29,12 +32,12 @@ git add
 git commit
 ```
 
-Estas son diversas formas de Añadir color
+Estas son diversas formas de añadir color
 
 Esto es un placeholder para el color naranja.
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
-Esto es un placeholder para el color amarillo
+Esto es un placeholder para el color azul.
  ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 ```diff
