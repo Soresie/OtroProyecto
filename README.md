@@ -35,7 +35,7 @@ git add
 git commit
 ```
 
-Estas son diversas formas de añadir color
+Markdown no soporta colores, aunque estas sond sitintas formas de añadir color usando otros lenguajes:
 
 Esto es un placeholder para el color naranja.
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
@@ -50,11 +50,12 @@ Esto es un placeholder para el color azul.
 # TExto en gris
 @@ Texto en violeta @@
 ```
-
-$${\color{red}Rojo}$$
-
-
-
+Tambien se pueden usar emojis:    
+🔴
+🟠
+⚫
+🟢
+🟡
 
 
 
