@@ -55,10 +55,19 @@ Tambien se pueden usar emojis:
 🟠
 ⚫
 🟢
-🟡
+🟡    
+<br><br>
 
-Esto es como se crean links: [Documentación GitHub](https://docs.github.com/es).
+Esto es como se crean links: [Documentación GitHub](https://docs.github.com/es). 
 
+
+[https://docs.github.com/es](#my-multi-word-header)
+
+### My Multi Word Header
+
+[Custom foo description](#foo)
+
+# Foo
 
 
 
