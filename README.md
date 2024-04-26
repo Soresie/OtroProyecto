@@ -1,28 +1,31 @@
 # Este es mi archivo README para entregar
 ## Expondremos toda la sintaxis general
-### Esto es un archivo .md
+### Esto es un archivo .md (Markdown)
 #### Esto son encabezados
-##### Sergio Orellan Sieira
+##### Sergio Orellan Sieira  
+<br><br>
+  
+**Este texto esta en negrita**   
+__Este también__       
+<br>
 
+*Este texto está en cursiva*   
+_Este también_   
+**Este texto esta en negrita y _esto en cursiva_** 
 
-
-
-**Este texto esta en negrita** 
-__Este también__
-
-*Este texto está en cursiva*
-
-_Este también_
+<br><br>
 
 ~~Este texto está tachado~~
-
+<br>
 > Este texto es una cita
 
-**Este texto esta en negrita y _solo esto en cursiva_**
+   
+<br><br>
 
-Esto es un <sub>subíndice:</sub>
+Esto es un <sub>subíndice</sub>
 
-Esto es un <sup>superíndice</sup>
+Esto es un <sup>superíndice</sup>   
+<br><br>
 
 Esto es un bloque distintivo para código y poder copiarlo facilmente
 
