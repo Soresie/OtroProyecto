@@ -75,6 +75,8 @@ Asi se vería una lista desordenada:
 - Cobaya
 
   <br><br>
+
+   
 Y asi una lista ordenada:
   
 1.  Londres
@@ -83,13 +85,28 @@ Y asi una lista ordenada:
 4.  Oslo
 
 <br><br>
-
+s
 Asi se hacen listas anidadas:    
 
 1. Uno
    - Dos
      - Tres
-       - Cuatro  
+       - Cuatro
+
+Asi se ve una lista de tareas:   
+- [x] Completado
+- [ ] En curso
+- [ ] Pendiente
+
+Asis e menciona a alguien:   
+@Soresie
+
+
+Asi se usan emojis:   
+:bowtie: 😄 😆 😊 😃 
+
+
+
 
 
 
