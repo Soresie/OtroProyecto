@@ -61,7 +61,10 @@ Tambien se pueden usar emojis:
 Esto es como se crean links: [Documentación GitHub](https://docs.github.com/es). 
 
 
-!(https://www.pinterest.es/pin/575123814905254877/)
+
+
+Asi se ve una foto:   
+![gato](https://github.com/Soresie/OtroProyecto/assets/166688955/a3699a9d-1378-4475-9fb5-37a701cf42c3)
 
 
 
