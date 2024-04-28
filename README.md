@@ -110,10 +110,24 @@ Asi es una nota al pie[^1].
 Esta es otra nota al pie[^2].
 
 [^1]: Su referencia.
-[^2]: Otra referencia.
+[^2]: Otra referencia.    
 
+<br><br>   
 
-   
+> [!NOTE]
+> Esto es una nota.
+
+> [!TIP]
+> Esto un consejo.
+
+> [!IMPORTANT]
+> Esto es una nota importante.
+
+> [!WARNING]
+> Esto es una advertencia.
+
+> [!CAUTION]
+> Esto es un mensaje de precaución.
 
 
 
