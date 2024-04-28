@@ -85,7 +85,7 @@ Y asi una lista ordenada:
 4.  Oslo
 
 <br><br>
-s
+
 Asi se hacen listas anidadas:    
 
 1. Uno
@@ -98,7 +98,7 @@ Asi se ve una lista de tareas:
 - [ ] En curso
 - [ ] Pendiente
 
-Asis e menciona a alguien:   
+Asi se menciona a alguien:   
 @Soresie
 
 
