@@ -64,7 +64,35 @@ Esto es como se crean links: [Documentación GitHub](https://docs.github.com/es)
 
 
 Asi se ve una foto:   
-![gato](https://github.com/Soresie/OtroProyecto/assets/166688955/a3699a9d-1378-4475-9fb5-37a701cf42c3)
+![gato](https://github.com/Soresie/OtroProyecto/assets/166688955/a3699a9d-1378-4475-9fb5-37a701cf42c3)    
+
+
+Asi se vería una lista desordenada:
+
+- Gato
+* Perro
++ Conejo
+- Cobaya
+
+  <br><br>
+Y asi una lista ordenada:
+  
+1.  Londres
+2.  Tokio
+3.  Berlín
+4.  Oslo
+
+<br><br>
+
+Asi se hacen listas anidadas:    
+
+1. Uno
+   - Dos
+     - Tres
+       - Cuatro  
+
+
+
 
 
 
