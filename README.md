@@ -130,6 +130,7 @@ Esta es otra nota al pie[^2].
 > Esto es un mensaje de precaución.
 
 
-
+Lo siguiente es un mensaje que no se ve en el Markdown(no se ve):
+<!-- No se ve en Markdown -->
 
 
