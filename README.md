@@ -91,20 +91,22 @@ Asi se hacen listas anidadas:
 1. Uno
    - Dos
      - Tres
-       - Cuatro
-
+       - Cuatro   
+  
 Asi se ve una lista de tareas:   
 - [x] Completado
 - [ ] En curso
-- [ ] Pendiente
+- [ ] Pendiente   
+   <br>
+   
+Asi se menciona a alguien:
 
-Asi se menciona a alguien:   
-@Soresie
-
-
+@Soresie   
+<br>   
+   
 Asi se usan emojis:   
 :bowtie: 😄 😆 😊 😃     
-
+   
 Asi es una nota al pie[^1].
 
 Esta es otra nota al pie[^2].
@@ -130,15 +132,21 @@ Esta es otra nota al pie[^2].
 > Esto es un mensaje de precaución.
 
 
+
+
 Lo siguiente es un mensaje que no se ve en el Markdown(no se ve):
 <!-- No se ve en Markdown -->   
-<br><br>
+<br><br>   
 
 
+
+Esto es una tabla:   
 | Esto es una  | Tabla |
 | ------------- | ------------- |
 | Celda1  | Celda2  |
-| Celda3  | Celda4  |    
+| Celda3  | Celda4  |     
+
+
 
 Tambien se puede formatear la tabla con estilos:    
 
@@ -147,6 +155,9 @@ Tambien se puede formatear la tabla con estilos:
 | *Cursiva*  | **Negrita** |
 | ***Negrita cursiva***  | ~~Tachado~~ |    
 
+
+<br><br>
+  
 Esto es una sección contraida:    
 
 
@@ -165,5 +176,22 @@ System.out.println("Hello World");
 ```
 </details>
 
+
+Mas funciones de código:   
+``` solidity
+// Remarcar sintaxis de codigo:
+pragma solidity ^0.8.0;
+
+contract HelloWorld {
+    function hello() external pure returns (string memory) {
+        return "Hello World!";
+    }
+}
+```
+
+
+
+
+   <br>    
 
 
