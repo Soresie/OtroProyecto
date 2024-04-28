@@ -174,8 +174,8 @@ Tambien puedes poner más cosas, como código.
 ```java
 System.out.println("Hello World");
 ```
-</details>
-
+</details>   
+<br>
 
 Mas funciones de código:   
 ``` solidity
@@ -193,5 +193,9 @@ contract HelloWorld {
 
 
    <br>    
+Asi son las expresiones matemáticas (Ecuación de Schrödinger):
+
+$$\frac{\hbar^2}{2m} \nabla^2 \Psi(\mathbf{r}) + V(\mathbf{r})\Psi(\mathbf{r}) = E\Psi(\mathbf{r})$$
+
 
 
