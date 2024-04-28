@@ -105,14 +105,15 @@ Asi se menciona a alguien:
 Asi se usan emojis:   
 :bowtie: 😄 😆 😊 😃     
 
-[^1]: Esot es un párrafo.
-[^2]:Esto es otro párrafo.
+Asi es una nota al pie[^1].
+
+Esta es otra nota al pie[^2].
+
+[^1]: Su referencia.
+[^2]: Otra referencia.
 
 
-
-
-
-
+   
 
 
 
