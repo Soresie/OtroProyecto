@@ -134,7 +134,20 @@ Lo siguiente es un mensaje que no se ve en el Markdown(no se ve):
 <!-- No se ve en Markdown -->   
 <br><br>
 
+
 | Esto es una  | Tabla |
 | ------------- | ------------- |
 | Celda1  | Celda2  |
-| Celda3  | Celda4  |
+| Celda3  | Celda4  |    
+
+Tambien se puede formatear la tabla con estilos:    
+
+| Esto es una  | Tabla |
+| ------------- | ------------- |
+| *Cursiva*  | **Negrita** |
+| ***Negrita cursiva***  | ~~Tachado~~ |    
+
+
+
+
+
