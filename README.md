@@ -147,7 +147,23 @@ Tambien se puede formatear la tabla con estilos:
 | *Cursiva*  | **Negrita** |
 | ***Negrita cursiva***  | ~~Tachado~~ |    
 
+Esto es una sección contraida:    
 
+
+<details>
+
+<summary>Click para ver más</summary>
+
+### Encabezado
+
+Texto contraido. 
+
+Tambien puedes poner más cosas, como código.
+
+```java
+System.out.println("Hello World");
+```
+</details>
 
 
 
