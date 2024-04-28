@@ -103,7 +103,10 @@ Asi se menciona a alguien:
 
 
 Asi se usan emojis:   
-:bowtie: 😄 😆 😊 😃 
+:bowtie: 😄 😆 😊 😃     
+
+[^1]: Esot es un párrafo.
+[^2]:Esto es otro párrafo.
 
 
 
