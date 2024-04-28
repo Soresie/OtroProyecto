@@ -61,13 +61,8 @@ Tambien se pueden usar emojis:
 Esto es como se crean links: [Documentación GitHub](https://docs.github.com/es). 
 
 
-[https://docs.github.com/es](#my-multi-word-header)
+!(https://www.pinterest.es/pin/575123814905254877/)
 
-### My Multi Word Header
-
-[Custom foo description](#foo)
-
-# Foo
 
 
 
